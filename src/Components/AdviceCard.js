@@ -1,8 +1,9 @@
 import "../App.css"
+import Footer from './Footer'
 
 const AdviceCard = ({advice, fetch}) => {
     return (
-        <div className="app">
+        <div className="app flex-col">
             <div className="card">
                 <h1 className="heading">{advice}</h1>
                 <button
@@ -15,6 +16,7 @@ const AdviceCard = ({advice, fetch}) => {
                     Advice may take <strong>2 - 3</strong> consecutive click sometimes to load.
                 </span>
             </div>
+            <Footer />
         </div>
     );
 };
