@@ -1,5 +1,7 @@
 # Words to live by developed by Create React App
 
+Run `npm install` or `yarn add` to install all the dependencies and node modules which are listed in `package.json` file
+
 ## Available Scripts
 
 In the project directory, you can run:
