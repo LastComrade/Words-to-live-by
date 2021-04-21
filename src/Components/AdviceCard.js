@@ -12,7 +12,7 @@ const AdviceCard = ({advice, fetch}) => {
                     <span>GIVE ME AN ADVICE!</span>
                 </button>
                 <span>
-                    Advice may take 2 - 3 consecutive click sometimes to load.
+                    Advice may take <strong>2 - 3</strong> consecutive click sometimes to load.
                 </span>
             </div>
         </div>
