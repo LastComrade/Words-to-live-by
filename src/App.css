@@ -9,6 +9,11 @@ body {
     box-sizing: border-box;
 }
 
+footer {
+    width: 40%;
+    box-shadow: 10px 10px;
+    border-radius: 25px;
+}
 
 .app {
     height: 100%;

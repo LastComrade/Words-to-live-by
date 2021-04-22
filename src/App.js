@@ -12,6 +12,7 @@ class App extends React.Component {
 
     // Everytime the new instance of a component is created or inserted into the DOM
     // fetchAdvice() function will be invoked to fetch the advice and store it into the state
+    // For the very first time the website is loaded it should perform a fetchAdvice call
     componentDidMount() {
         this.fetchAdvice();
     }
