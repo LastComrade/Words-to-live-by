@@ -1,5 +1,7 @@
+// Destructuring GitHub, IG, and LinkedIn icon from react-icons/fa module
 import { FaGithub, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 
+// Fucntional component
 const Footer = () => {
     return (
         <footer className="bg-gray-900 mt-4">
