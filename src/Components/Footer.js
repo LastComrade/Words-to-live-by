@@ -25,7 +25,7 @@ const Footer = () => {
                         </li>
                     </ul>
                     <div className="flex mx-auto text-white text-center">
-                        Konark Lohat © 2021
+                        Aman Verma © 2021
                     </div>
                 </div>
             </div>
